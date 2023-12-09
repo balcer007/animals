@@ -1,1 +1,4 @@
-z
+zwierze 1
+zwierze 2
+zwierze 3
+
