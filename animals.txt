@@ -1,11 +1,9 @@
 zwierze 1
 zwierze 2
-zwierze 3
-asdf
+zwierze 3 -KONFLIKT
+
 asdfasdf
 dsafasdf
-
-
 ziweraczki 5
-zwieraczki 6
+zwieraczki 6 - KONFLIKT
 
