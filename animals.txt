@@ -3,8 +3,5 @@ zwierze 2AAA
 zwierze 3AAA
 asdf
 asdfasdf
-dsafasdfAAA
-AA
-AA
 
-
+My changes to do first pull request
